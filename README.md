@@ -1,6 +1,6 @@
 # DIY-a-Smart-NiMH-NiCd-Battery-Charger
 There are a lot of DIY options available, but because these batteries work at lower voltage (1.2V) there is not any specific method.
-See the full project details on: 
+See the full project details on: https://www.pcbway.com/project/shareproject/DIY_a_Smart_NiMH_NiCd_Battery_Charger_43f991d5.html
 
 When talking about standalone single cell battery chargers only one popular name came into my mind that is our versatile Li-Ion/Li-Po TP4056 battery charger. Which is vastly available and has a lot of features related to battery protection. But what about the other batteries which work on a lower potential, for example the crude NiMh or NiCd (Nickel metal hydride or nickel cadmium). There are a lot of DIY options available, but because these batteries work at lower voltage (1.2V) there is not a specific and standard method to charge.
 
